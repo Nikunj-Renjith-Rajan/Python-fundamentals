@@ -1,0 +1,6 @@
+SHIFT OPERATORS     (BITWISE)
+    a=x>>y          Right SHIFT
+    it is basically a=x*(2**y)
+
+    a=x<<y          Left SHIFT
+    it is basically a=x/(2**y)
