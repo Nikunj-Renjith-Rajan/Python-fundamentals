@@ -1,0 +1,1 @@
+hrs=hrs+(p//i) if p%i==0 else hrs+(p//i)+1 
